@@ -2,11 +2,13 @@
 
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Visits&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ad0883&label=Profile%20Visits&color=blue&style=for-the-badge" alt="Profile Visits" />
 
 </div>
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side image" align="right" width="220" />
+<br>
+
+<img src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/life_balance.gif" alt="side image" align="right" width="220" />
 
 ## I’m Alok Dwivedi
 
@@ -77,20 +79,16 @@ A record management system using hashing, stack-based searching, queue logic, ra
 ## 📫 How to Reach Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="42" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="42" />
-  </a>
-  &nbsp;
   <a href="mailto:a.dwivedi6303@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="42" />
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="42" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.icons8.com/color/48/000000/github.png" width="42" />
+  <a href="https://github.com/ad0883">
+    <img src="https://img.icons8.com/color/48/000000/github.png" width="42" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://alok-portfolio-257p.onrender.com/">
+    <img src="https://img.icons8.com/color/48/domain.png" width="42" alt="Portfolio" />
   </a>
 </p>
 
@@ -100,22 +98,7 @@ A record management system using hashing, stack-based searching, queue logic, ra
 
 <p align="left">
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png"></code>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,react,spring,flutter,html,css,mysql,mongodb,git,github,opencv,linux,vscode,postman" />
 
 </p>
 
@@ -138,25 +121,35 @@ Core CS         : DSA, OOP, DBMS, OS, Computer Networks
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=ad0883&show_icons=true&theme=radical&hide_border=true" alt="Alok's GitHub Stats" />
 
-<br />
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad0883&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-</p>
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ad0883&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=ad0883&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 
-</p>
+</div>
 
 ---
 
