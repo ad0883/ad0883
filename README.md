@@ -1,14 +1,20 @@
 <div align="center">
 
-# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# Hello World! 👋
 
 <img src="https://komarev.com/ghpvc/?username=ad0883&label=Profile%20Visits&color=blue&style=for-the-badge" alt="Profile Visits" />
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=I'm+Alok+Dwivedi;Full+Stack+Developer;AI+%2B+Computer+Vision+Enthusiast;Building+Practical+Software+Projects" alt="Typing SVG" />
+
 </div>
 
-<br>
+---
 
-<img src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/life_balance.gif" alt="side image" align="right" width="220" />
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ## I’m Alok Dwivedi
 
@@ -21,6 +27,15 @@ I like turning rough ideas into working systems with clean UI, useful backend lo
 - 💻 I work with **React**, **Spring Boot**, **Flutter**, **Python**, **Java**, and **C++**.
 - 🤖 I’m interested in **AI healthcare**, **personal search engines**, **custom browsers**, **automation**, and **computer vision**.
 - ⚡ Fun fact: I prefer building projects that actually look useful on a resume, not just basic clones.
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/life_balance.gif" alt="Life Balance" width="260" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -97,9 +112,7 @@ A record management system using hashing, stack-based searching, queue logic, ra
 ## 👨🏻‍💻 Languages and Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,react,spring,flutter,html,css,mysql,mongodb,git,github,opencv,linux,vscode,postman" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,react,spring,flutter,html,css,mysql,mongodb,git,github,opencv,linux,vscode,postman" alt="Skills" />
 </p>
 
 ---
@@ -123,11 +136,23 @@ Core CS         : DSA, OOP, DBMS, OS, Computer Networks
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ad0883&show_icons=true&theme=radical&hide_border=true" alt="Alok's GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ad0883&theme=radical" alt="GitHub Profile Summary" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad0883&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ad0883&theme=radical" alt="GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ad0883&theme=radical" alt="Repos Per Language" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ad0883&theme=radical" alt="Most Commit Language" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ad0883&theme=radical&utcOffset=5.5" alt="Productive Time" />
 
 </div>
 
